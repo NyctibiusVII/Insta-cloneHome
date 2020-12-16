@@ -32,15 +32,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Layout 🚧
 #### Desktop Screenshot
-<div style="display: flex; flex-direction: 'column'; align-items: 'center';">
+<div>
 <!-- Responsive, 1366 x 768, 50% (Lenovo Ideapad 310)-->
    <img src="./.github/desktop-insta.png" width="400px">
 </div>
 
 #### Mobile Screenshot
-<div style="display: flex; flex-direction: 'row'; background-color: #f1f1f1; padding: 5px;">
+<div>
 <!-- Responsive, 360 x 720, 50% (Moto G6 Play)-->
-   <img src="./.github/mobile-insta.png" width="180">
+   <img src="./.github/mobile-insta-p-readme.png" width="180">
 </div>
 
 ## Rodando o projeto 🚴🏻‍♂️
@@ -68,7 +68,7 @@ Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](https://githu
 
 <p align="left">
    <a href="https://www.linkedin.com/in/matheus-vidigal-nyctibiusvii/">
-      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-000000?style=flat&logo=Linkedin&logoColor=414141" />
+      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-000000?style=flat&logo=Linkedin&logoColor=ffffff" />
    </a>
    <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSGLCKpKJfwPsKKqzXBplKkGtCLvCQcFWdWxCxQFfkHzzjVkgzrMFPBgKBmWFHvrjrCsMqSH">
       <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-ff69b4?style=flat&logo=Gmail&logoColor=ffffff" />
