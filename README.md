@@ -5,8 +5,8 @@
 </h4>
 <p align="center">
   <img alt="Plataforma" src="https://img.shields.io/static/v1?label=Plataforma&message=Mobile/PC&color=ff69b4&labelColor=000000">
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/NyctibiusVII/Insta-cloneHome?color=ff69b4&labelColor=000000">
-  <a href="https://github.com/NyctibiusVII/Insta-cloneHome/blob/master/LICENSE">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/NyctibiusVII/InstaCloneHome?color=ff69b4&labelColor=000000">
+  <a href="https://github.com/NyctibiusVII/InstaCloneHome/blob/master/LICENSE">
     <img alt="Licença" src="https://img.shields.io/static/v1?label=License&message=MIT&color=ff69b4&labelColor=000000">
   </a>
   <a href="https://picpay.me/Matheus_nyctibius_vii">
@@ -14,13 +14,13 @@
   </a>
 </p>
 <p align="center">
-  <a href="#Insta-cloneHome-">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#InstaCloneHome-">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias-">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#layout-">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licença-%EF%B8%8F">Licença</a>
 </p>
 
-# Insta-cloneHome 🖼🎨
+# InstaCloneHome 🖼🎨
 Projeto desenvolvido para a conclusão do curso recriando a pagina inicial do Instagram. @DigitalInnovationOne.
 
 
@@ -48,10 +48,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ```bash
 
 # Clone o repositório
-$ git clone https://github.com/NyctibiusVII/Insta-cloneHome.git
+$ git clone https://github.com/NyctibiusVII/InstaCloneHome.git
 
 # Acesse a pasta do projeto no prompt de comando
-$ cd HTML_Web_Developer
+$ cd InstaCloneHome
 
 # Para executar o projeto basta abrir o html com seu navegador.
 ```
@@ -60,7 +60,7 @@ $ cd HTML_Web_Developer
 Para construir essa aplicação tive a ajuda da professora **Gabriela Pinheiro** da DigitalInnovationOne que disponibilizou video aulas do projeto **"Recriando a página inicial do Instagram"**.
 
 ## Licença ⚖️
-Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](https://github.com/NyctibiusVII/Insta-cloneHome/blob/master/LICENSE) para mais detalhes.
+Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](https://github.com/NyctibiusVII/InstaCloneHome/blob/master/LICENSE) para mais detalhes.
 
 ## Contato ✉️
 | <img src="https://user-images.githubusercontent.com/52816125/90341686-05b68880-dfd8-11ea-969c-70c9ce9d0278.jpg" width=100><br><sub><a href="https://www.instagram.com/nyctibius_vii/?hl=pt-br">@MatheusVidigal🦊</a></sub> |
