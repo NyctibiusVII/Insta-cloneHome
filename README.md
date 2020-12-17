@@ -1,6 +1,6 @@
 <h4 align="center">
   <br>
-    <img src="./.github/InstaCloneHomeLogo.png" width="150" heigh="150" alt="Insta clone Home">
+    <img src="./.github/InstaCloneHomeLogo.png" width="150" heigh="150" alt="Instagram clone Home">
     cloneHome
 </h4>
 <p align="center">
